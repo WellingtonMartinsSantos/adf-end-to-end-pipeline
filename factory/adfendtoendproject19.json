@@ -1,0 +1,9 @@
+{
+	"name": "adfendtoendproject19",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e4223f45-4c60-4622-b711-fdf0ad5e6ec6",
+		"tenantId": "4a218f4d-9733-421d-9166-bc2dcaa9d57d"
+	}
+}
