@@ -1,5 +1,5 @@
 {
-	"name": "Copy data TESTE",
+	"name": "copypipeline",
 	"properties": {
 		"activities": [
 			{
