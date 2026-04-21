@@ -10,6 +10,18 @@
 		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://storageaccountstore19.dfs.core.windows.net/"
+		},
+		"AzureKeyVault1_properties_typeProperties_baseUrl": {
+			"value": "https://adfendtoendproject19.vault.azure.net/"
+		},
+		"SqlServer1_properties_typeProperties_server": {
+			"value": "WELL_CRIS\\SQLEXPRESS"
+		},
+		"SqlServer1_properties_typeProperties_database": {
+			"value": "AdventureWorksLT2019"
+		},
+		"SqlServer1_properties_typeProperties_userName": {
+			"value": "well"
 		}
 	}
 }
