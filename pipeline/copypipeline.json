@@ -22,7 +22,7 @@
 						"partitionOption": "None"
 					},
 					"dataset": {
-						"referenceName": "SqlServerTable2",
+						"referenceName": "SqlServerTable",
 						"type": "DatasetReference"
 					},
 					"firstRowOnly": false
@@ -89,13 +89,13 @@
 							},
 							"inputs": [
 								{
-									"referenceName": "SqlServerTable2",
+									"referenceName": "SqlServerTable",
 									"type": "DatasetReference"
 								}
 							],
 							"outputs": [
 								{
-									"referenceName": "Parquet2",
+									"referenceName": "Parquet",
 									"type": "DatasetReference",
 									"parameters": {
 										"schemaname": {
